@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Pedometer SDK</string>
+
+        <string name="label_calorie">Calorie :</string>
+        <string name="label_distance">Distance :</string>
+        <string name="label_speed">Speed :</string>
+        <string name="label_count">Count :</string>
+        <string name="label_status">Status :</string>
+
+        <string name="value_calorie">Calorie</string>
+        <string name="value_distance">Distance</string>
+        <string name="value_speed">Speed</string>
+        <string name="value_count">Count</string>
+        <string name="value_status">Status</string>
+
+        <string name="start">START</string>
+        <string name="stop">STOP</string>
+
+        <string-array name="mode_pedometer">
+            <item>Realtime</item>
+            <item>Periodic</item>
+        </string-array>
+</resources>
